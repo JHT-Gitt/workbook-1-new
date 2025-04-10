@@ -3,6 +3,9 @@ package com.pluralsight;
 public class MathApp {
     public static void main(String[] args){
 
+        System.out.println("heyyyyyyyyyyy");
+
+
         int grade1 = 55, grade2 = 35, total;
         total = grade1 + grade2;
         System.out.println("The total is " + total);
